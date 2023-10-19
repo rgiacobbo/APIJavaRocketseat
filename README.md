@@ -30,25 +30,19 @@ O objetivo principal do projeto é construir uma API para um TodoList completo.
 ### Como instalar
 
 ```bash
-$ yarn
-```
-
-### ❓ .env
-
-Faça uma cópia do .env.example e mude o nome do arquivo para ".env". Edite esse arquivo colando os dados para conexão com o banco de dados, e se necessário, altere os dados do JWT.
-
-```bash
-$ cp .env.example .env
+$ apt-get install openjdk-17-jdk -y
+$ apt-get install maven -y
+$ mvn clean install
 ```
 
 ### Como inicializar
 
 ```bash
-yarn dev
+$ java -jar target/todolist-1.0.0.jar
 ```
 
 ### Descrição
 
-A API de noticias tem como funcionalidades de gerencias a exibição de filmes.
+Api para o gerenciamento de um Todo List
 
 Para acessar o swagger acesse a rota /api-docs
