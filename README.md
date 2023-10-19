@@ -7,8 +7,6 @@
 - [Spring](https://spring.io/)
 - [swagger](https://github.com/swagger-api/swagger-ui)
 
-## ❓ Como utilizar
-
 ## 📑 Sobre o Projeto
 
 Este projeto consistem em uma API REST como parte de um treinamento da Rocketseat. A API foi criada para colocar em pratica os conhecimentose e habilidades.
@@ -34,6 +32,8 @@ $ apt-get install openjdk-17-jdk -y
 $ apt-get install maven -y
 $ mvn clean install
 ```
+
+## ❓ Como utilizar
 
 ### Como inicializar
 
