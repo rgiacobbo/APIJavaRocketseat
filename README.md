@@ -23,6 +23,7 @@ O objetivo principal do projeto é construir uma API para um TodoList completo.
 - [x] List task from User
 - [ ] Delete task
 - [ ] Swagger
+- [ ] Tests
 
 <br>
 
